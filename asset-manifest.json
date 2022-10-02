@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://anishvermaishere.github.io/ecomm-live/static/css/main.069afce4.css",
+    "main.js": "https://anishvermaishere.github.io/ecomm-live/static/js/main.3850770a.js",
+    "static/media/ecommlogo.png": "https://anishvermaishere.github.io/ecomm-live/static/media/ecommlogo.fb6953ad31a61cd30050.png",
+    "index.html": "https://anishvermaishere.github.io/ecomm-live/index.html",
+    "main.069afce4.css.map": "https://anishvermaishere.github.io/ecomm-live/static/css/main.069afce4.css.map",
+    "main.3850770a.js.map": "https://anishvermaishere.github.io/ecomm-live/static/js/main.3850770a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.069afce4.css",
+    "static/js/main.3850770a.js"
+  ]
+}
